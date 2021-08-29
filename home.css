@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Open+Sans&display=swap');
+body {
+    background-color: black;
+    color: blanchedalmond;
+}
+/* header*/
+header {
+    background-color: rgb(59, 8, 8);
+    height: 2.1cm;
+}
+#logo h3{
+    font-family: 'Allison', cursive;
+}
+.logo {
+    float: left;
+}
+#logo img {
+    border-radius: 100%;
+}
+nav {
+    float: right;
+    inline-size: 15cm;
+}
+nav ul li {
+    display: inline-block;
+    padding: 0px 30px;
+}
+a {
+    color: #e71;
+    font-size: 27px;
+}
+a:hover {
+    color: #528aae;
+}
+.content {
+    clear: both;
+    margin-top: 2cm;
+    margin-left: 1cm;
+    width: 50%;
+    float: left;
+}
+.workstation {
+    width: 45%;
+    margin-top: 3cm;
+}
+h4 {
+    color: #e71;
+    font-size: 30px;
+}
+h3 {
+    font-size: 80px;
+    margin-bottom: -1.0cm;
+    margin-top: 0.7cm;
+}
+h5 {
+    margin-top: 1.5cm;
+    font-size: 25px;
+}
+/* footer */
+footer {
+    background-color: rgb(59, 8, 8);
+    height: 2.5cm;
+}
+#footer ul li {
+    display: inline-block;
+    padding: 0px 70px;
+    margin-top: 0.5cm;
+}
+.copyright {
+    margin-left: -1.8cm;
+    margin-right: 3cm;
+    font-size: 30px;
+    border-right: dotted #528aae;
+    padding-right: 1.5cm;
+}
