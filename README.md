@@ -9,7 +9,7 @@ This my portfolio, it gives a description about myself
 * Easy to run
 * Well commented coding
 * Open source
-* Proper idenetion
+* Proper Indenation 
 
 ## Technologies Used
 * HTML
