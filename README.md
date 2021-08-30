@@ -8,7 +8,7 @@ This my portfolio, it gives a description about myself
 * Clean code
 * Easy to run
 * Well commented coding
-* Open
+* Open source
 
 ## Technologies Used
 * HTML
