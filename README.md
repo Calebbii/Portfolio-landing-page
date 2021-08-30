@@ -8,7 +8,6 @@ This my portfolio, it gives a description about myself
 * clean code
 * Easy to run
 * Well commented coding
-* Easy to use
 * It's free
 * It's open source
 
