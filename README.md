@@ -2,6 +2,7 @@
 
 ## Description
 This my portfolio, it gives a description about myself
+
 ## Features
 * clean code
 * Easy to run
@@ -10,12 +11,10 @@ This my portfolio, it gives a description about myself
 * It's free
 * It's open source
 * Built with HTML & CSS
-* A contact form that sends an email for easy reference
 
 ## Technologies Used
-HTML
-CSS
-JAVASCRIPT
+*HTML
+*CSS
 ## Support and contact details
 Email: biicaleb316@gmail.com
 ## Contributions
