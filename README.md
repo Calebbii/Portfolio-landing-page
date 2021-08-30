@@ -15,7 +15,6 @@ This my portfolio, it gives a description about myself
 ## Technologies Used
 * HTML
 * CSS
-* clean code
 
 ## Support and contact details
 Email: biicaleb316@gmail.com
