@@ -18,6 +18,6 @@ This my portfolio, it gives a description about myself
 ## Support and contact details
 Email: biicaleb316@gmail.com
 ## Contributions
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome
 ## Authors and Acknowledgement
 Caleb Bii
