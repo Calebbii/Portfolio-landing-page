@@ -4,13 +4,13 @@
 This my portfolio, it gives a description about myself
 
 ## Features
+* Built with HTML & CSS
 * clean code
 * Easy to run
 * Well commented coding
 * Easy to use
 * It's free
 * It's open source
-* Built with HTML & CSS
 
 ## Technologies Used
 * HTML
