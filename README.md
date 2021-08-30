@@ -5,7 +5,7 @@ This my portfolio, it gives a description about myself
 
 ## Features
 * Built with HTML & CSS
-* clean code
+* Clean code
 * Easy to run
 * Well commented coding
 * It's free
