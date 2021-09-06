@@ -22,4 +22,4 @@ Contributions, issues, and feature requests are welcome
 ## Authors and Acknowledgement
 Caleb Bii
 ## License and Copyright
-
+[MIT Lisence](https://github.com/Calebbii/Portfolio-landing-page/blob/master/LICENSE)Copyright @ Calebbii
